@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Bienvenido a mi perfil AgustinG-DEV / Agustín Gibaut! 👨‍💻
 
-<!--
-**AgustinG-DEV/AgustinG-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SOBRE MI
+- Estudiante apasionado de desarrollo de software, especializado en Python.
+- Aprendiendo constantemente para mejorar tanto profesionalmente como personalmente.
 
-Here are some ideas to get you started:
+## LENGUAJES QUE MANEJO
+- Desarrollo de Software con Python.
+- Diseño Web con HTML y CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##HERRAMIENTAS QUE SE UTILIZAR 
+GIT 
+GITHUB
+
+## CONTACTATE SI QUERES ABER ALGO MAS SOBRE MI
+- WHATSAPP: [Agustín Gibaut](wa.me/3512580435)
+- gmail: Agustindev24@gmail.com
