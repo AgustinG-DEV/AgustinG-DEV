@@ -1,8 +1,9 @@
 <h1 align="center">hola soy agustinG-dev / Agustin Gibaut</h1>
 <h3 align="center">Desarrollo de Sotware & Desarrollo web.</h3>
 
-<h4><font><font color= "red">se manejar el lenguaje python y por mi cuenta eh 
-  aprendido a utilizar html y css. Desde pesqueño me gusta un monton el mundo de la programacion y hoy con 19 años me encuentro aprendiendo cosas nuevas dia a dia</font>
+## lugar en donde estudio: INSTITUTO SUPERIOR POLITECNICO CORDOBA (ISPC)
+
+<h4><font><font color= "red">Desde pesqueño siempre me gusto un monton el mundo de la programacion. Hoy con 19 años me encuentro aprendiendo cosas nuevas dia a dia y mejorando como persona</font>
 <h3 align="left">CONTACTATE CONMIGO: 3512580435</h3>
 <p align="left">
 </p>
